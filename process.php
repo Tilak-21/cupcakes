@@ -1,3 +1,10 @@
+
+
+<!--Name: Tilak K Chudasma-->
+<!--Date: 04/04/2024-->
+<!--URl: https://tchudasama.greenriverdev.com/GreenRiverDev/328/cupcakes/-->
+<!--Program Desc: This HTML document presents a form for a cupcake fundraiser, allowing users to select their desired cupcake flavors. Upon submission, the selected flavors along with the user's name are sent to a server-side script for processing.-->
+
 <?php
 
 $name = $_POST['username'];
